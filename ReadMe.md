@@ -17,3 +17,6 @@ To join over the internet with friends currently how it works is everyone who is
 JOIN THE MAIN SERVER WITH twilight.auto.playit.gg:23415
 
 If you play on the same wifi network just host a world normally you will be given a code given that you can join simply
+
+ORIGINAL INSPIRATION AND TONS OF HELP FROM THIS REPO
+https://drive.google.com/file/d/1EXmvcs51-HeOCPAmbInfGJnPoevLIDM2/view
