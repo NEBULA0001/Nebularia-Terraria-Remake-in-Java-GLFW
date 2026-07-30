@@ -8,6 +8,12 @@ Using my homelab as a server for multiplayer I used playit.gg for the replacemen
 
 currently no audio
 expect bugs this is the first build for multiplayer
+--------------------
+MULTIPLAYER
+--------------------
 
-USE THIS TO JOIN A WORLD - indian-twilight.gl.joinmc.link CODE 
-you can only join one world with everyone in it as a whole server basically
+To join over the internet with friends currently how it works is everyone who isnt on the same wifi/home network "lan" you have to join the main server were everybody will be
+
+JOIN THE MAIN SERVER WITH twilight.auto.playit.gg:23415
+
+If you play on the same wifi network just host a world normally you will be given a code given that you can join simply
