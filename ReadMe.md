@@ -20,3 +20,6 @@ If you play on the same wifi network just host a world normally you will be give
 
 ORIGINAL INSPIRATION AND TONS OF HELP FROM THIS REPO
 https://drive.google.com/file/d/1EXmvcs51-HeOCPAmbInfGJnPoevLIDM2/view
+-------------------------------
+I WILL OPEN SOURCE THIS PROJECT WHEN ITS 100% DONE
+Currently - 75%
