@@ -9,4 +9,5 @@ Using my homelab as a server for multiplayer I used playit.gg for the replacemen
 currently no audio
 expect bugs this is the first build for multiplayer
 
-USE THIS TO JOIN A WORLD - indian-twilight.gl.joinmc.link CODE
+USE THIS TO JOIN A WORLD - indian-twilight.gl.joinmc.link CODE 
+you can only join one world with everyone in it as a whole server basically
